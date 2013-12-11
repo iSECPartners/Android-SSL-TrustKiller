@@ -1,0 +1,25 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.SSLTrustKiller"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-permission android:name="cydia.permission.SUBSTRATE" />
+    
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        
+        <meta-data android:name="com.saurik.substrate.main"
+            android:value=".Hook"/>
+        
+    </application>
+
+    
+    
+</manifest>
