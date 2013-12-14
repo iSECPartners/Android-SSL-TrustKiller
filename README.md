@@ -6,7 +6,7 @@ Description
 -------
 This tool leverages Cydia Substrate to hook various methods 
 in order to bypass certificate pinning by accepting
-any SSL certificate - allowing to proxy most applications.
+any SSL certificate.
 
 Usage
 -------
@@ -21,8 +21,7 @@ and requires a rooted device.
 
 Notes
 -------
-* Use on test device only as it bypass cert 
-validation across all apps on the device
+* Use on test device only as it bypasses cert validation for any app doing certificate pinning on the device
 
 License
 -------
