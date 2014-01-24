@@ -25,7 +25,7 @@ Usage
 Notes
 -----
 
-Use on test devices only as it disables certificate validation for any app doing certificate pinning on the device.
+Use only on a test devices as anyone on the same network can intercept traffic from a number of applications including Google apps. This extension will soon be integrated into Introspy-Android (https://github.com/iSECPartners/Introspy-Android) in order to allow you to proxy only selected applications.
 
 License
 -------
