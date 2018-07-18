@@ -14,7 +14,7 @@ any SSL certificate.
 Usage
 -----
 
-* Ensure that Cydia Substrate has been deployed on your test device. The installer requires a rooted device and can be found on the Google Play store at https://play.google.com/store/apps/details?id=com.saurik.substrate&hl=en 
+* Ensure that Cydia Substrate has been deployed on your test device. The installer requires a rooted device and the APK file can be found at http://www.cydiasubstrate.com/download/com.saurik.substrate.apk
 * Download the pre-compiled APK available at https://github.com/iSECPartners/Android-SSL-TrustKiller/releases
 * Install the APK package on the device:
 
